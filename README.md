@@ -1,7 +1,7 @@
 ### Hi there, It's Ozancan 👋
 
 
-** I am research and Teaching Assistant in the Department of Statistics, METU**
+**I am research and Teaching Assistant in the Department of Statistics, METU**
 
 - :closed_book: I love learning and teaching statistics.
 - :hearts: I am data science and R Programming enthusiast. 
