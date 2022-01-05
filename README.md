@@ -1,10 +1,13 @@
 ### Hi there, It's Ozancan 👋
 
 
-**Research and Teaching Assistant in the Department of Statistics, METU**
+** I am research and Teaching Assistant in the Department of Statistics, METU**
 
 - :closed_book: I love learning and teaching statistics.
-Data science and R Programming enthusiast.Interested in Machine Learning and Time Series.
+- :hearts: I am data science and R Programming enthusiast. 
+- 👓 I am interested in machine learning and deep learning applications on the time series. 
+- 💻 I am a huge fan of Pytorch, nowadays. 
+- 📧 Any time you can reach me: ozancanozdemir@gmail.com
 <!--
 **ozancanozdemir/ozancanozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
