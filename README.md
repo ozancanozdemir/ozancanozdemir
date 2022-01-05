@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, It's Ozancan 👋
 
+
+**Research and Teaching Assistant in the Department of Statistics, METU**
+
+- :closed_book: I love learning and teaching statistics.
+Data science and R Programming enthusiast.Interested in Machine Learning and Time Series.
 <!--
 **ozancanozdemir/ozancanozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
