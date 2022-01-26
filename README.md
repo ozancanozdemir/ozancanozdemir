@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/OzancanOzdemir)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozancan-%C3%B6zdemir-40b94768/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozancanozdemir)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozancanozdemir@gmail.com)](mailto:ozancanozdemir@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/ozancanozdemir@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozancanozdemir@gmail.com)](mailto:ozancanozdemir@gmail.com)
 
 - :closed_book: I love learning and teaching statistics.
 - :hearts: I am data science and R Programming enthusiast. 
@@ -22,7 +22,7 @@
 - 😮‍💨 I am following COVID-19 cases regularly...
 - 📊 I am good at data visualizaiton in R and Tableau.
 - 💻 I am a huge fan of Pytorch, nowadays. 
-- 📧 Any time you can reach me: ozancanozdemir@gmail.com
+
 <!--
 **ozancanozdemir/ozancanozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
