@@ -3,7 +3,7 @@
 
 **I am research and Teaching Assistant in the Department of Statistics, METU**
 
-📃Here is my personal webpage: http://users.metu.edu.tr/ozancan/
+📃Here is my personal webpage: https://ozancanozdemir.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozancanozdemir" alt="ozancanozdemir" /> </p>
 
