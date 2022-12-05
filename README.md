@@ -19,7 +19,6 @@
 - :closed_book: I love learning and teaching statistics.
 - :hearts: I am data science and R Programming enthusiast. 
 - 👓 I am interested in machine learning and deep learning applications on the time series. 
-- 😮‍💨 I am following COVID-19 cases regularly...
 - 📊 I am good at data visualizaiton in R and Tableau.
 - 💻 I am a huge fan of Pytorch, nowadays. 
 
