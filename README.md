@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozancanozdemir" alt="ozancanozdemir" /> </p>
 
-[![](https://img.shields.io/twitter/follow/OzancanOzdemir?style=social)](https://www.twitter.com/OzancanOzdemir)
+[![](https://img.shields.io/X/follow/OzancanOzdemir?style=social)](https://www.twitter.com/OzancanOzdemir)
 [![](https://img.shields.io/github/followers/ozancanozdemir?style=social)](https://www.github.com/ozancanozdemir)
 
 
