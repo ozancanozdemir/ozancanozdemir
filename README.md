@@ -1,7 +1,6 @@
 ### Hi there, It's Ozancan 👋
 
-
-**I am research and Teaching Assistant in the Department of Statistics, METU**
+**I am a PhD Candidate at Bernoulli Institute for Mathematics Computer Science and Artificial Intelligence**
 
 📃Here is my personal webpage: https://ozancanozdemir.github.io/
 
