@@ -10,7 +10,7 @@
 [![](https://img.shields.io/github/followers/ozancanozdemir?style=social)](https://www.github.com/ozancanozdemir)
 
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/OzancanOzdemir)
+[![]([https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/twitter/follow/OzancanOzdemir)(https://www.twitter.com/OzancanOzdemir)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozancan-%C3%B6zdemir-40b94768/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozancanozdemir)
 [![Mail Badge](https://img.shields.io/badge/ozancanozdemir@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozancanozdemir@gmail.com)](mailto:ozancanozdemir@gmail.com)
