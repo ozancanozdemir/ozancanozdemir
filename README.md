@@ -16,10 +16,12 @@
 [![Mail Badge](https://img.shields.io/badge/ozancanozdemir@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozancanozdemir@gmail.com)](mailto:ozancanozdemir@gmail.com)
 
 - :closed_book: I love learning and teaching statistics.
-- :hearts: I am data science and R Programming enthusiast. 
-- 👓 I am interested in machine learning and deep learning applications on the time series. 
-- 📊 I am good at data visualizaiton in R and Tableau.
-- 💻 I am a huge fan of Pytorch, nowadays. 
+- :hearts: I am a data science and R Programming enthusiast. 
+- 👓 I am interested in machine learning and deep learning applications on the time series.
+- 📈 I am studying stock market analysis. 
+- 📊 I am good at data visualization in R and Tableau.
+- 💻 I am a huge fan of Pytorch, nowadays.
+
 
 <!--
 **ozancanozdemir/ozancanozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
