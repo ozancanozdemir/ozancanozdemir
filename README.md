@@ -18,9 +18,9 @@
 - :closed_book: I love learning and teaching statistics.
 - :hearts: I am a data science and R Programming enthusiast. 
 - 👓 I am interested in machine learning and deep learning applications on the time series.
-- 📈 I am studying stock market analysis. 
+- 📈 I am currently studying about the stock market analysis. 
 - 📊 I am good at data visualization in R and Tableau.
-- 💻 I am a huge fan of Pytorch, nowadays.
+- 💻 I am a huge fan of scikit-learn and Pytorch.
 
 
 <!--
