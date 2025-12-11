@@ -15,10 +15,10 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozancanozdemir)
 [![Mail Badge](https://img.shields.io/badge/ozancanozdemir@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozancanozdemir@gmail.com)](mailto:ozancanozdemir@gmail.com)
 
-- :closed_book: I love learning and teaching statistics.
-- :hearts: I am a data science and R Programming enthusiast. 
-- 👓 I am interested in machine learning and deep learning applications on the time series.
-- 📈 I am currently studying about the stock market analysis. 
+- :closed_book: I love learning and teaching statistics. I also love talking about LLMs and their impact on society and the economy! 
+- :hearts: I am a data science and R Programming enthusiast, but I have a solid Python background. 
+- 👓 I am interested in machine learning and deep learning applications on time series.
+- 📈 I am currently studying stock market analysis, particularly fundamental analysis. 
 - 📊 I am good at data visualization in R and Tableau.
 - 💻 I am a huge fan of scikit-learn and Pytorch.
 
