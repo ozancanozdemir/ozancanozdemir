@@ -21,7 +21,7 @@
 - 📈 I am currently studying stock market analysis, particularly fundamental analysis. 
 - 📊 I am good at data visualization in R and Tableau.
 - 💻 I am a huge fan of scikit-learn and Pytorch.
-- :github: I list my repositories, including forked ones,s in ENG and TUR. 
+- :arrow_right: You can check my repositories, including forked ones, in ENG and TUR. 
 
 <!--
 **ozancanozdemir/ozancanozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
